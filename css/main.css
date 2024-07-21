@@ -1,29 +1,37 @@
-.h1{
-    color:aqua;
+.all_of_elements{
     text-align: center;
 }
 
-.amazing_team{
-
-    text-align:center;
+.declaration_member{
+    float:left;
+    width:33.3%;
+    height:150px;
 }
 
-.first_paragraph{
-    color:dimgrey;
+.clearfix{
+    clear:left;
 }
-
-.lead_designer{
-    color:dimgray
-}
-
-.lead_marketer{
-    color:dimgray
-}
-
-.lead_dev{
-    color:dimgray
-}
-
-.last_paragraph{
+.p1{
     color:dimgray;
 }
+
+
+
+
+.p_designer{
+    color:dimgray;
+}
+
+.p_marketer{
+    color:dimgray;
+}
+
+.p_developer{
+    color:dimgray;
+}
+
+.final_paragraph{
+    color:dimgray;
+}
+
+
